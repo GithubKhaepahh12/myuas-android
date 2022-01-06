@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_profil_24"
+            android:title="Profil" />
+    </group>
+
+    <item android:title="Dasboard">
+        <menu>
+            <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/nav_buah"
+                android:icon="@drawable/fruit"
+                android:title="Buah" />
+
+            <item
+                android:id="@+id/nav_sayuran"
+                android:icon="@drawable/sayuran1"
+                android:title="Sayuran" />
+
+            <item
+                android:id="@+id/nav_petunjuk"
+                android:icon="@drawable/ic_baseline_integration_instructions_24"
+                android:title="Petunjuk" />
+
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
