@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/hijaucantik">
+    android:background="@color/biru">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
-        android:text="Daftar Sayur"
+        android:text="Daftar Makanan Sehat"
         android:textColor="@color/black"
         android:textSize="24sp"
         android:textStyle="bold" />

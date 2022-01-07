@@ -16,26 +16,25 @@
         android:orientation="vertical">
 
         <ImageView
-            android:layout_width="400dp"
-            android:layout_height="320dp"
+            android:layout_width="300dp"
+            android:layout_height="250dp"
             android:backgroundTint="#FFFFFF"
             android:scaleType="centerCrop"
-            android:src="@drawable/sayurbuah" />
+            android:src="@drawable/makanan" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
-            android:text="Pengenalan Sayur Dan Buah"
+            android:text="Makanan Sehat"
             android:textColor="@color/black"
-            android:textSize="20sp"
-            android:textStyle="bold" />
+            android:textSize="20sp" />
 
         <ProgressBar
             android:id="@+id/id_progresbar"
             android:layout_width="40sp"
-            android:layout_height ="40sp"
+            android:layout_height="40sp"
             android:layout_marginStart="187dp"
             android:layout_marginTop="600dp" />
 

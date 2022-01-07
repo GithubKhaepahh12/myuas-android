@@ -15,12 +15,12 @@
             <item
                 android:id="@+id/nav_buah"
                 android:icon="@drawable/fruit"
-                android:title="Buah" />
+                android:title="Buah Dan Sayur" />
 
             <item
                 android:id="@+id/nav_sayuran"
-                android:icon="@drawable/sayuran1"
-                android:title="Sayuran" />
+                android:icon="@drawable/ic_baseline_local_dining_24"
+                android:title="Makanan" />
 
             <item
                 android:id="@+id/nav_petunjuk"

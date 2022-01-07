@@ -10,9 +10,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.khaepah.myuas.ApiService
 import com.khaepah.myuas.R
-import com.khaepah.myuas.model.DataBuah
 import com.khaepah.myuas.model.DataSayur
-import com.khaepah.myuas.model.ResponseBuahList
 import com.khaepah.myuas.model.ResponseSayurList
 import retrofit2.Call
 import retrofit2.Callback

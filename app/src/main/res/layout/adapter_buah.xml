@@ -44,7 +44,7 @@
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                android:text="Jenis Vitamin :"
+                android:text="Manfaat          :"
                 android:textColor="@color/black" />
 
                 <TextView
@@ -66,7 +66,7 @@
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="5dp"
-                    android:text="Status              :"
+                    android:text="Kategori          :"
                     android:textColor="@color/black" />
 
                 <TextView
